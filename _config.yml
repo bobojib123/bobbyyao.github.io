@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bobby Yao / Site Title"
+title                    : "Bobby Yao Personal Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhanhongtu Bobby Yao"
 description              : &description "personal description"
 url                      : https://bobbyyao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
